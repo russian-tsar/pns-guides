@@ -37,3 +37,61 @@
 | `greenhouse` | Теплица | Greenhouse | Greenhouse | Greenhouse | Greenhouse | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
 | `supply-depot` | Склад снабжения | Supply Depot | Supply Depot | Supply Depot | Supply Depot | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
 | `nanoweapon-parts` | запчасти для нанооружия | Nanoweapon Parts | Nanoweapon Parts | Nanoweapon Parts | Nanoweapon Parts | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `alliance-trial` | Испытание альянса | Alliance Trial | Alliance Trial | Alliance Trial | Alliance Trial | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/6); соответствие локализациям игры пока не подтверждено |
+| `fighters` | бойцы | Fighters | Fighter | 파이터 | 斗士 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `riders` | наездники | Riders | Rider | 라이더 | 骑兵 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `shooters` | стрелки | Shooters | Shooter | 슈터 | 射手 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `squad-skills` | навыки отряда | squad skills | keterampilan skuad | 부대 스킬 | 部队技能 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `squad-attack` | атака отряда | Squad Attack | serangan skuad | 부대 공격력 | 部队攻击 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `zombie-zero` | Нулевой зомби | Zombie Zero | Zombie Zero | Zombie Zero | Zombie Zero | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `hall-of-war` | Зал войны | Hall of War | Hall of War | Hall of War | Hall of War | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `destroyer` | Крушитель | Destroyer | Destroyer | Destroyer | Destroyer | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/9); соответствие локализациям игры пока не подтверждено |
+| `war-frenzy` | военная лихорадка | War Frenzy | War Frenzy | 전쟁 열기 | 战争狂热 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/9); соответствие локализациям игры пока не подтверждено |
+| `headquarters` | штаб (ШК) | Headquarters (HQ) | Headquarters (HQ) | 본부 (HQ) | 总部（HQ） | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/8); соответствие локализациям игры пока не подтверждено |
+| `might` | мощь | Might | Might | 전투력 | 战力 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/8); соответствие локализациям игры пока не подтверждено |
+| `highest-might` | высшая мощь | Highest Might | Highest Might | 최고 전투력 | 最高战力 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/8); соответствие локализациям игры пока не подтверждено |
+| `random-relocate` | случайный телепорт | Random Relocate | Random Relocate | Random Relocate | Random Relocate | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/8); соответствие локализациям игры пока не подтверждено |
+| `state` | регион | state | negara | 주 | 州 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/8); соответствие локализациям игры пока не подтверждено |
+| `black-soil` | чёрная земля | black soil | tanah hitam | 검은 땅 | 黑土地 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/8); соответствие локализациям игры пока не подтверждено |
+| `wasteland-king` | Король пустоши | Wasteland King | Wasteland King | 황무지의 왕 | 荒原之王 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `techno-center` | Техно-Центр (ТЦ) | Techno Center (TC) | Techno Center (TC) | 테크노 센터(TC) | 科技中心（TC） | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `turret` | турель | turret | turret | 포탑 | 炮塔 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `first-aid` | Первая помощь | First Aid | First Aid | 응급 처치 | 急救 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `superboost` | суперусиление | Superboost | Superboost | 슈퍼 강화 | 超级强化 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `nap` | НАП | NAP | NAP | NAP | NAP | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `taxi` | такси | Taxis | Taxi | 택시 | 出租车 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `infirmary` | лазарет | Infirmary | Infirmary | 의무실 | 医务所 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `deep-healing` | глубокое исцеление | Deep Healing | Deep Healing | 심층 치료 | 深度治疗 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/10); соответствие локализациям игры пока не подтверждено |
+| `alliance-infirmary` | лазарет альянса | Alliance Infirmary | Alliance Infirmary | 연맹 의무실 | 联盟医务所 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/11); соответствие локализациям игры пока не подтверждено |
+| `nanomedicine` | нанопрепараты | Nanomedicine | Nanomedicine | 나노 의약품 | 纳米药剂 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/11); соответствие локализациям игры пока не подтверждено |
+| `serum` | сыворотка | serum | serum | 혈청 | 血清 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `arena` | Арена | Arena | Arena | 아레나 | 竞技场 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `nanoweapon` | нанооружие | nanoweapon | nanoweapon | 나노무기 | 纳米武器 | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `lady-m` | Леди М | Lady M | Lady M | Lady M | Lady M | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/6); соответствие локализациям игры пока не подтверждено |
+| `mars` | Марс | Mars | Mars | Mars | Mars | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/6); соответствие локализациям игры пока не подтверждено |
+| `maverick` | Маверик | Maverick | Maverick | Maverick | Maverick | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `requiem` | Реквием | Requiem | Requiem | Requiem | Requiem | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `nam-hyeol` | Нам Хёль | Nam Hyeol | Nam Hyeol | Nam Hyeol | Nam Hyeol | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `tomoyo` | Томоё | Tomoyo | Tomoyo | Tomoyo | Tomoyo | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `marlowe` | Марлоу | Marlowe | Marlowe | Marlowe | Marlowe | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `meyers` | Майрс | Meyers | Meyers | Meyers | Meyers | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `noct` | Нокт | Noct | Noct | Noct | Noct | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `sanguine` | Санквин | Sanguine | Sanguine | Sanguine | Sanguine | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `seo-yeon` | Со Ён | Seo Yeon | Seo Yeon | Seo Yeon | Seo Yeon | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `barbie` | Барби | Barbie | Barbie | Barbie | Barbie | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `queenie` | Квинни | Queenie | Queenie | Queenie | Queenie | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `ulrik` | Ульрик | Ulrik | Ulrik | Ulrik | Ulrik | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `zephyr` | Зефир | Zephyr | Zephyr | Zephyr | Zephyr | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `dr-grey` | Доктор Грей | Dr. Grey | Dr. Grey | Dr. Grey | Dr. Grey | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `percival` | Персиваль | Percival | Percival | Percival | Percival | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `dom` | Дом | Dom | Dom | Dom | Dom | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `rain` | Рейн | Rain | Rain | Rain | Rain | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `fox` | Фокс | Fox | Fox | Fox | Fox | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `obsidian` | Обсидиан | Obsidian | Obsidian | Obsidian | Obsidian | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `amber` | Эмбер | Amber | Amber | Amber | Amber | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `malcolm` | Малькольм | Malcolm | Malcolm | Malcolm | Malcolm | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `bard` | Бард | Bard | Bard | Bard | Bard | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `griffin` | Грифон | Griffin | Griffin | Griffin | Griffin | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `hartwell` | Хартвелл | Hartwell | Hartwell | Hartwell | Hartwell | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `ephraim` | Эфраим | Ephraim | Ephraim | Ephraim | Ephraim | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
+| `phoenix` | Феникс | Phoenix | Phoenix | Phoenix | Phoenix | предполагаемый | [Канонический текст](https://t.me/russiantsar_pns/7); соответствие локализациям игры пока не подтверждено |
