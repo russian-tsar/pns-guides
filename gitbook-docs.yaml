@@ -1,0 +1,41 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: PNS Guides
+  structure:
+    - type: space
+      key: space-ru
+      title: Русский
+      path: ru
+      default: true
+      content:
+        directory: ./ru
+        language: ru
+    - type: space
+      key: space-en
+      title: English
+      path: en
+      content:
+        directory: ./en
+        language: en
+    - type: space
+      key: space-id
+      title: Bahasa Indonesia
+      path: id
+      content:
+        directory: ./id
+        language: id
+    - type: space
+      key: space-ko
+      title: 한국어
+      path: ko
+      content:
+        directory: ./ko
+        language: ko
+    - type: space
+      key: space-zh-cn
+      title: 简体中文
+      path: zh-cn
+      content:
+        directory: ./zh-CN
+        language: zh
