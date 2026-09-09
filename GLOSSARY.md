@@ -14,3 +14,16 @@
 | Ключ | Русский (`ru`) | English (`en`) | Bahasa Indonesia (`id`) | 한국어 (`ko`) | 简体中文 (`zh-CN`) | Статус | Источник |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | `game-title` | Puzzles & Survival | Puzzles & Survival | Puzzles & Survival | Puzzles & Survival | Puzzles & Survival | официальный | Официальное название игры |
+| `vip-10` | VIP 10 | VIP 10 | VIP 10 | VIP 10 | VIP 10 | официальный | Обозначение уровня VIP в интерфейсе игры |
+| `commander-talents` | таланты командира | Commander Talents | Talenta Komandan | 지휘관 특성 | 指挥官天赋 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `hunting-mastery` | Охотничье мастерство | Hunt Mastery | Hunt Mastery (Penguasaan Berburu) | Hunt Mastery(사냥 숙련) | 狩猎精通 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `mega-march` | Мегамарш | Mega March | Mega March | Mega March(메가 행군) | Mega March（大行军） | ru: официальный; en/id/ko/zh-CN: предполагаемый | Русский интерфейс; английское название устойчиво используется в игровых руководствах |
+| `talent-memory` | память талантов | Talent Memory | Memori Talenta | 특성 메모리 | 天赋记忆 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Русский интерфейс; переводы требуют сверки с локализациями игры |
+| `economy-branch` | ветка экономики | Economy talent tree | cabang Ekonomi | 경제 계열 | 经济天赋 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `military-branch` | ветка войны | Military talent tree | cabang Militer | 군사 계열 | 战斗天赋 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `balance-branch` | ветка равновесия | Balance talent tree | cabang Keseimbangan | 균형 계열 | 平衡天赋 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `valiant-conquest` | Доблестное завоевание | Valiant Conquest | Valiant Conquest | Valiant Conquest(용맹의 정복) | 征服之战 | ru/en: официальный; id/ko/zh-CN: предполагаемый | Русский интерфейс; официальное руководство 37Games |
+| `zenith` | Зенит | Zenith War | Zenith War | Zenith War(제니스 전쟁) | 实验基地争夺战 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Русский интерфейс; переводы требуют сверки с локализациями игры |
+| `pit` | Яма | Pit | Pit (Tambang) | Pit(희토류 광산) | 矿坑 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Уточнение автора; переводы требуют сверки с локализациями игры |
+| `apex-match` | Верховный матч | Apex Match | Apex Match | Apex Match(에이펙스 매치) | 巅峰赛事 | ru/en: официальный; id/ko/zh-CN: предполагаемый | Русский интерфейс; официальные примечания к версии 7.0.108 |
+| `stamina` | выносливость | stamina | stamina | 스태미나 | 体力 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
