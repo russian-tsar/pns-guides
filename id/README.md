@@ -3,7 +3,7 @@ description: Panduan praktis untuk Puzzles & Survival
 updated: 2026-09-09
 ---
 
-# Panduan Puzzles & Survival
+# Tentang Proyek
 
 <!-- ai-translation-notice -->
 > Terjemahan ini disiapkan dengan bantuan AI. Versi bahasa Rusia adalah teks kanonis.

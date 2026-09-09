@@ -3,7 +3,7 @@ description: Практические гайды по игре Puzzles & Surviva
 updated: 2026-09-09
 ---
 
-# Гайды по Puzzles & Survival
+# О проекте
 
 **Обновлено:** 2026-09-09
 

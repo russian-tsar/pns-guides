@@ -3,7 +3,7 @@ description: Puzzles & Survival 实用指南
 updated: 2026-09-09
 ---
 
-# Puzzles & Survival 指南
+# 关于项目
 
 <!-- ai-translation-notice -->
 > 本译文由 AI 协助完成。俄文版本为规范文本。
