@@ -27,3 +27,13 @@
 | `pit` | Яма | Pit | Pit (Tambang) | Pit(희토류 광산) | 矿坑 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Уточнение автора; переводы требуют сверки с локализациями игры |
 | `apex-match` | Верховный матч | Apex Match | Apex Match | Apex Match(에이펙스 매치) | 巅峰赛事 | ru/en: официальный; id/ko/zh-CN: предполагаемый | Русский интерфейс; официальные примечания к версии 7.0.108 |
 | `stamina` | выносливость | stamina | stamina | 스태미나 | 体力 | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `diamond-expert` | Эксперт по алмазам | Diamond Expert | Diamond Expert | Diamond Expert | Diamond Expert | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `vip-13` | VIP 13 | VIP 13 | VIP 13 | VIP 13 | VIP 13 | официальный | Обозначение уровня VIP в интерфейсе игры |
+| `action-points` | ОД (очки действия) | AP (Action Points) | AP (Action Point) | AP(Action Point) | AP（Action Point） | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `diamond-shop` | Алмазный магазин | Diamond Shop | Diamond Shop | Diamond Shop | Diamond Shop | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `wasteland-mine` | Шахта выжженных земель | Wasteland Mine | Wasteland Mine | Wasteland Mine | Wasteland Mine | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `mystery-shop` | Загадочный магазин | Mystery Shop | Mystery Shop | Mystery Shop | Mystery Shop | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `directed-relocate` | направленный телепорт | Directed Relocate | Directed Relocate | Directed Relocate | Directed Relocate | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `greenhouse` | Теплица | Greenhouse | Greenhouse | Greenhouse | Greenhouse | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `supply-depot` | Склад снабжения | Supply Depot | Supply Depot | Supply Depot | Supply Depot | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
+| `nanoweapon-parts` | запчасти для нанооружия | Nanoweapon Parts | Nanoweapon Parts | Nanoweapon Parts | Nanoweapon Parts | ru: официальный; en/id/ko/zh-CN: предполагаемый | Канонический текст гайда; переводы требуют сверки с локализациями игры |
