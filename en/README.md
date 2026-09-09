@@ -3,7 +3,7 @@ description: Practical guides for Puzzles & Survival
 updated: 2026-09-09
 ---
 
-# Puzzles & Survival Guides
+# About the Project
 
 <!-- ai-translation-notice -->
 > This translation was prepared with the help of AI. The Russian version is the canonical text.

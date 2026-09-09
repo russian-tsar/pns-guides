@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Home](README.md)
+- [About the Project](README.md)
 - [VIP 10](vip10.md)
 - [When and What to Spend Diamonds On](diamond-spending.md)
 - [Why Lady M is useful in Alliance Trial](lady-m-alliance-trial.md)

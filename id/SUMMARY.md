@@ -1,6 +1,6 @@
 # Daftar isi
 
-- [Beranda](README.md)
+- [Tentang Proyek](README.md)
 - [VIP 10](vip10.md)
 - [Kapan dan untuk Apa Menggunakan Berlian](diamond-spending.md)
 - [Mengapa Lady M berguna dalam Alliance Trial](lady-m-alliance-trial.md)

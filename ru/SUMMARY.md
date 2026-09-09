@@ -1,6 +1,6 @@
 # Содержание
 
-- [Главная](README.md)
+- [О проекте](README.md)
 - [VIP 10](vip10.md)
 - [Когда и на что тратить алмазы](diamond-spending.md)
 - [Зачем нужна Леди М в Испытании альянса](lady-m-alliance-trial.md)

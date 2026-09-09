@@ -3,7 +3,7 @@ description: Puzzles & Survival 실전 가이드
 updated: 2026-09-09
 ---
 
-# Puzzles & Survival 가이드
+# 프로젝트 소개
 
 <!-- ai-translation-notice -->
 > 이 번역은 AI의 도움으로 작성되었습니다. 러시아어 버전이 기준 원문입니다.

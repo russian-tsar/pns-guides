@@ -1,6 +1,6 @@
 # 목차
 
-- [홈](README.md)
+- [프로젝트 소개](README.md)
 - [VIP 10](vip10.md)
 - [다이아몬드를 사용하는 시기와 용도](diamond-spending.md)
 - [Alliance Trial에서 Lady M이 필요한 이유](lady-m-alliance-trial.md)
