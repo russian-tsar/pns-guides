@@ -11,12 +11,12 @@ updated: 2026-09-09
 
 **Updated:** 2026-09-09
 
-1. Attack with your strongest squad and the best heroes for that squad. I discussed hero selection earlier.
+1. Attack with your strongest squad and the best heroes for that squad. I discussed [hero selection](squad-heroes.md) earlier.
 
 2. Activate the ATK buff. It costs 400 diamonds, but it is worth it. You do not need a defense buff: only attack affects the Destroyer.
 
 3. Use Mega March: it increases your squad size.
 
-4. Switch to the Military talent tree in Commander Talents if you have VIP 10.
+4. Switch to the Military talent tree in Commander Talents if you have [VIP 10](vip10.md).
 
 5. Scout someone to activate War Frenzy, which provides additional attack percentage bonuses.
